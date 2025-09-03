@@ -6,7 +6,7 @@ title: Emery Beckman - Academic Portfolio
 ---
 ## Hi, My name is Emery
 
-! [Featured Image] (https://img.freepik.com/premium-photo/closeup-capture-sleek-professionally-designed-minimalist-cv-wooden-desk_981640-71558.jpg.jpg)
+! [Featured Image] (https://img.freepik.com/premium-photo/closeup-capture-sleek-professionally-designed-minimalist-cv-wooden-desk_981640-71558.jpg)
 
 
 # Emery Beckman
